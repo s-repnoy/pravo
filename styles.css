@@ -1,0 +1,29 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px; 
+  line-height: 140%;
+  color: #1f1e1e;
+}
+.container{
+  margin: 0 auto; 
+  padding: 0 10px;
+}
+.paragraph{
+
+}
+.links{
+
+}
+.tabl{
+
+}
+.phone_number{
+
+}
+.list{
+  margin-top: 5px;
+}
+.list2{
+  margin-bottom: 5px;
+}
